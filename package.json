@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/brendan-kellams/Scraping-All-News-With-React/issues"
   },
-  "homepage": "https://github.com/brendan-kellams/Scraping-All-News-With-React#readme"
+  "homepage": "https://github.com/brendan-kellams/Scraping-All-News-With-React#readme",
+  "dependencies": {
+    "bson": "^4.0.1",
+    "lodash": "^4.17.11",
+    "mime": "^2.4.0"
+  }
 }
